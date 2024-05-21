@@ -15,6 +15,10 @@ gRPC is a modern open source high performance Remote Procedure Call (RPC) framew
 - It can be faster than REST due to its usage of HTTP/2, which allows for multiplexing multiple requests over a single connection, reducing latency.
 - Protocol Buffers are more compact and efficient to serialize and deserialize compared to JSON, which can lead to lower bandwidth usage.
 
+### Features
+
+- Streaming: Both client-side and server-side can be beneficial for real-time data exchange or long-lived connections.
+
 ## New term
 
 ### HTTP/2
