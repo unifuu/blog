@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Fū's 블로그"
+title = "Fū's Blog"
 
 [params]
   displayName = "EN"
@@ -16,7 +16,7 @@ title = "Fū's 블로그"
 [author]
   name = "Fū"
   # image = "gopher.png"
-  headline = "What was I made for?"
+  headline = "As I fall down to my knees."
   # bio = "A little bit about you"  # appears in author card for each article
   links = [
 #     { email = "mailto:hello@your_domain.com" },
@@ -32,7 +32,7 @@ title = "Fū's 블로그"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/unifuu" },
+    # { github = "https://github.com/unifuu" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },

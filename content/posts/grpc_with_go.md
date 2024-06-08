@@ -8,7 +8,7 @@ tags: ["Go", "Memo", "RPC"]
 
 gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment.
 
-## Why gRPC
+## Why RPC
 
 ### Performance
 

@@ -30,8 +30,8 @@ highlightCurrentMenuArea = true
 
 [footer]
   showMenu = true
-  showCopyright = true
-  showThemeAttribution = true
+  showCopyright = false
+  showThemeAttribution = false
   showAppearanceSwitcher = false
   showScrollToTop = true
 

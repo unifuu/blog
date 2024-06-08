@@ -15,15 +15,20 @@
  pageRef = "about"
  weight = 1
 
+ [[main]]
+ name = "Now"
+ pageRef = "now"
+ weight = 2
+
 [[main]]
  name = "Tags"
  pageRef = "tags"
- weight = 2
+ weight = 3
 
 [[main]]
  name = "Posts"
  pageRef = "posts"
- weight = 3
+ weight = 4
 
 #[[main]]
 #  name = "Parent"
