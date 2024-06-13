@@ -1,7 +1,7 @@
 ---
 title: "Memo of gRPC"
 date: 2024-05-17
-tags: ["Go", "Memo", "RPC"]
+tags: ["Go", "RPC"]
 ---
 
 ## What is gRPC
@@ -19,7 +19,7 @@ gRPC is a modern open source high performance Remote Procedure Call (RPC) framew
 
 - Streaming: Both client-side and server-side can be beneficial for real-time data exchange or long-lived connections.
 
-## New term
+## Docs
 
 ### HTTP/2
 
