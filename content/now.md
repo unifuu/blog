@@ -9,7 +9,8 @@ date: 2024-06-08
 
 ## Programming
 
-- Stardew Valley like Game in Unity
+- To make a Stardew Valley like game in Unity
+- To learn gRPC
 
 ## Reading
 
