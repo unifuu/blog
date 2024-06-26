@@ -1,0 +1,31 @@
+---
+title: "Plan of July 2K24"
+date: 2024-06-26
+tags: ["Plan"]
+---
+
+## Drawing
+
+- [ ] Pokédex No.906 ~ No.914 
+
+## Gaming
+
+- [ ] [PS5] Uncharted: Legacy of Thieves Collection
+- [ ] [PS5] Trials of Mana
+
+## Gunpla
+
+- [ ] [HG] ZETA GUNDAM
+- [ ] [HG] GUNDAM EXIA REPAIR II
+
+## Programming
+
+- [ ] Getting Started with Raspberry Pi
+- [ ] To Make a Stardew Valley Like Game with Unity
+
+## Reading
+
+- [ ] Lonely Castle in the Mirror
+- [ ] たのしい 2Dゲームの作り方
+- [ ] TOEIC TEST 必ずできる文法 スピードマスター
+- [ ] TOEIC TEST 模試特急 新形式対策
