@@ -16,7 +16,7 @@ title = "Fū's Blog"
 [author]
   name = "Fū"
   # image = "gopher.png"
-  headline = "As I fall down to my knees."
+  headline = "The good die young."
   # bio = "A little bit about you"  # appears in author card for each article
   links = [
 #     { email = "mailto:hello@your_domain.com" },
