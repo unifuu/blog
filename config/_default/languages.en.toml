@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Fū's Blog"
+title = "ひととせ"
 
 [params]
   displayName = "EN"
@@ -16,7 +16,7 @@ title = "Fū's Blog"
 [author]
   name = "Fū"
   # image = "gopher.png"
-  headline = "The good die young."
+  headline = "The good die young!"
   # bio = "A little bit about you"  # appears in author card for each article
   links = [
 #     { email = "mailto:hello@your_domain.com" },

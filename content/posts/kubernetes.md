@@ -1,5 +1,5 @@
 ---
-title: "Memo of Kubernetes"
+title: "Memo of Kubernetes ..."
 date: 2024-06-26
 tags: ["Kubernetes"]
 ---
