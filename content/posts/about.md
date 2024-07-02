@@ -17,11 +17,15 @@ Gamer, Programmer.
 2. Programming
 3. Drawing / Painting
 4. Reading
-5. Listening to Music
-6. Building & Painting Gunpla
-7. Learning Languages
-8. Watching Anime & Movies
-9. Collectting Stationery
+5. Building & Painting Gunpla
+6. ~~Listening to Music~~ → A part of life
+7. ~~Learning Languages~~ → Stop CN/KR
+8. ~~Watching Anime & Movies~~ → BGM for Drawing & Gunpla
+9. ~~Collectting Stationery~~ → Money for Games & Gunpla
+
+## Change
+
+- Switch paper books to digital books
 
 ## Routine
 
@@ -45,7 +49,7 @@ Gamer, Programmer.
 - CURIDAS Fountain Pen
 - Jibun Techo
 - Kånken Wallet
-- Kindle
+- ~~Kindle~~
 - MacBook Pro
-- Sooofa Notebook
+- ~~Sooofa Notebook~~
 - Talens Sketchbook
