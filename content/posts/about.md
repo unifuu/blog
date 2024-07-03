@@ -19,10 +19,6 @@ Gamer, Programmer.
 4. Drawing / Painting
 5. Building & Painting Gunpla
 
-## Change
-
-- Switch paper books to digital books
-
 ## Routine
 
 - 06:00 ~ 06:15
