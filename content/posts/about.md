@@ -21,17 +21,17 @@ Gamer, Programmer.
 
 ## Routine
 
-- 06:00 ~ 06:15
-- 06:15 ~ 07:00
-- 07:00 ~ 08:00 Programming
-- 08:00 ~ 09:00 
-- 09:00 ~ 11:30
-- 11:30 ~ 12:00
-- 12:00 ~ 12:30 Drawing
-- 12:30 ~ 17:30
-- 17:30 ~ 19:00
+- 06:00 ~ 06:15 Shower
+- 06:15 ~ 07:00 Language
+- 07:00 ~ 08:15 Programming
+- 08:15 ~ 09:00 Commuting / Programming
+- 09:00 ~ 11:40 Working / Programming
+- 11:40 ~ 12:00 Lunch
+- 12:00 ~ 12:40 Drawing / Free
+- 12:40 ~ 17:15 Working / Free
+- 17:15 ~ 19:00 Commuting & Dinner / Free
 - 19:00 ~ 22:00 Gaming
-- 22:00 ~ 22:30
+- 22:00 ~ 22:30 Shower
 - 22:30 ~ 23:00 Reading
 - 23:00 ~ 30:00 Sleeping
 
@@ -41,5 +41,5 @@ Gamer, Programmer.
 - CURIDAS Fountain Pen
 - Jibun Techo
 - Kånken Wallet
-- MacBook Pro
+- ~MacBook Pro~
 - Talens Sketchbook
