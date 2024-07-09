@@ -16,8 +16,11 @@ Gamer, Programmer.
 - Reading
 - Drawing
 - Gunpla
-- Music (Music is a part of my life)
+- Music
 - Movie
+- ~~Anime~~
+- ~~Language~~
+- ~~Stationery~~
 
 ## Routine
 
@@ -41,6 +44,6 @@ Gamer, Programmer.
 - CURIDAS Fountain Pen
 - Jibun Techo (→ Digital Planner in 2K25)
 - Kånken Wallet
-- ~~Kindle~~ (→ Physical Books First)
-- ~~MacBook Pro~~ (Starbucks?)
+- ~~Kindle~~
+- ~~MacBook Pro~~
 - Talens Sketchbook
