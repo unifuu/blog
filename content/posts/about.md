@@ -45,4 +45,4 @@ Gamer, Programmer.
 - Kånken Wallet
 - ~~Kindle~~
 - ~~MacBook Pro~~
-- ~~Talens Sketchbook~~
+- Talens Sketchbook
