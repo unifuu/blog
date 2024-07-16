@@ -17,6 +17,7 @@ Gamer, Programmer.
 - Drawing
 - Gunpla
 - Music
+- Anime
 - Movies
 
 ## Routine
@@ -39,8 +40,9 @@ Gamer, Programmer.
 
 - AirPods Pro
 - CURIDAS Fountain Pen
+- iPad Pro
 - Jibun Techo
 - Kånken Wallet
 - ~~Kindle~~
 - ~~MacBook Pro~~
-- Talens Sketchbook
+- ~~Talens Sketchbook~~
