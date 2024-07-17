@@ -17,16 +17,8 @@ Gamer, Programmer.
 - Drawing
 - Gunpla
 - Music
-- Languages
+- Anime
 - Movies
-
-## Language
-
-- Cantonese
-- English
-- Mandarin
-- Japanese
-- Korean-ing
 
 ## Routine
 
@@ -53,4 +45,4 @@ Gamer, Programmer.
 - Kånken Wallet
 - ~~Kindle~~ (→ Physical Books First)
 - ~~MacBook Pro~~ (→ iPad Pro)
-- ~~Talens Sketchbook~~ (→ Learn Korean First)
+- Talens Sketchbook
