@@ -17,8 +17,16 @@ Gamer, Programmer.
 - Drawing
 - Gunpla
 - Music
-- Anime
+- Languages
 - Movies
+
+## Language
+
+- Cantonese
+- English
+- Mandarin
+- Japanese
+- Korean-ing
 
 ## Routine
 
@@ -43,6 +51,6 @@ Gamer, Programmer.
 - iPad Pro
 - Jibun Techo
 - Kånken Wallet
-- ~~Kindle~~
-- ~~MacBook Pro~~
-- Talens Sketchbook
+- ~~Kindle~~ (→ Physical Books First)
+- ~~MacBook Pro~~ (→ iPad Pro)
+- ~~Talens Sketchbook~~ (→ Learn Korean First)
