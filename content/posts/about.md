@@ -40,9 +40,6 @@ Gamer, Programmer.
 
 - AirPods Pro
 - CURIDAS Fountain Pen
-- iPad Pro
-- Jibun Techo
+- iPad Pro with Apple Pencil
 - Kånken Wallet
-- ~~Kindle~~ (→ Physical Books First)
-- ~~MacBook Pro~~ (→ iPad Pro)
 - Talens Sketchbook
