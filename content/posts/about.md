@@ -16,9 +16,8 @@ Gamer, Programmer.
 - Reading
 - Drawing
 - Gunpla
-- Music
-- Anime
-- Movies
+- Music (EN)
+- Movies (EN)
 
 ## Routine
 
@@ -38,7 +37,7 @@ Gamer, Programmer.
 
 ## What's in My Bag?
 
-- AirPods Pro
+- AirPods Pro 2
 - CURIDAS Fountain Pen
 - iPad Pro with Apple Pencil
 - Kånken Wallet
