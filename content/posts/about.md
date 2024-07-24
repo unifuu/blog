@@ -16,8 +16,8 @@ Gamer, Programmer.
 - Reading
 - Drawing
 - Gunpla
-- Music (EN)
-- Movies (EN)
+- Music
+- Movies
 
 ## Routine
 
